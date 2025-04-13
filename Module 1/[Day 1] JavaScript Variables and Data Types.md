@@ -50,17 +50,10 @@ JavaScript supports **9 primary data types** — 7 primitive and 2 complex:
 | Array      | The group chat                 | `["Alice", "Bob", "Charlie"]` |
 
 ---
-Here’s a fun and informative table for JavaScript data types using emojis 🧠 and categorizing them into **Primitive** and **Non-Primitive** types 🧩:
 
----
 
 ### 🟡 JavaScript Data Types Table
 
-Sure! Here's the same JavaScript data types table **without the emoji column**:
-
----
-
-### 🟡 JavaScript Data Types Table (Without Emojis)
 
 | 🆎 Sr. No | 📦 Data Type        | 📂 Category         | 🧾 Description                                                                 | 🔍 Example               |
 |----------|---------------------|---------------------|---------------------------------------------------------------------------------|--------------------------|
