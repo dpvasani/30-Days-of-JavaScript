@@ -50,11 +50,44 @@ JavaScript supports **9 primary data types** — 7 primitive and 2 complex:
 | Array      | The group chat                 | `["Alice", "Bob", "Charlie"]` |
 
 ---
-
-Here's your rewritten content with added emojis, better formatting, and a polished, engaging tone—perfect for slides, blog posts, or learning notes:
+Here’s a fun and informative table for JavaScript data types using emojis 🧠 and categorizing them into **Primitive** and **Non-Primitive** types 🧩:
 
 ---
 
+### 🟡 JavaScript Data Types Table
+
+Sure! Here's the same JavaScript data types table **without the emoji column**:
+
+---
+
+### 🟡 JavaScript Data Types Table (Without Emojis)
+
+| 🆎 Sr. No | 📦 Data Type        | 📂 Category         | 🧾 Description                                                                 | 🔍 Example               |
+|----------|---------------------|---------------------|---------------------------------------------------------------------------------|--------------------------|
+| 1        | `String`            | 🟨 Primitive         | Represents a sequence of characters                                             | `"Hello World"`          |
+| 2        | `Number`            | 🟨 Primitive         | Represents numeric values (integers or floating-point)                          | `42`, `3.14`             |
+| 3        | `Boolean`           | 🟨 Primitive         | Represents a logical entity: `true` or `false`                                 | `true`, `false`          |
+| 4        | `Null`              | 🟨 Primitive         | Represents intentional absence of any value                                     | `null`                   |
+| 5        | `Undefined`         | 🟨 Primitive         | A variable that has been declared but not assigned a value                      | `undefined`              |
+| 6        | `Symbol`            | 🟨 Primitive         | Unique and immutable value used as object keys                                 | `Symbol('id')`           |
+| 7        | `BigInt`            | 🟨 Primitive         | Used for very large integers                                                    | `9007199254740991n`      |
+| 8        | `Object`            | 🟧 Non-Primitive     | Collection of key-value pairs                                                   | `{ name: "John" }`       |
+| 9        | `Array`             | 🟧 Non-Primitive     | Ordered collection of values                                                    | `[1, 2, 3]`              |
+| 10       | `Function`          | 🟧 Non-Primitive     | Block of reusable code                                                          | `function(){}`           |
+| 11       | `Date`              | 🟧 Non-Primitive     | Represents date and time                                                        | `new Date()`             |
+| 12       | `RegExp`            | 🟧 Non-Primitive     | Pattern used for matching text                                                  | `/abc/`                  |
+| 13       | `Map`               | 🟧 Non-Primitive     | Collection of keyed data items (ordered)                                       | `new Map()`              |
+| 14       | `Set`               | 🟧 Non-Primitive     | Collection of unique values                                                     | `new Set()`              |
+| 15       | `WeakMap`           | 🟧 Non-Primitive     | Like `Map` but keys are weakly referenced                                       | `new WeakMap()`          |
+| 16       | `WeakSet`           | 🟧 Non-Primitive     | Like `Set` but values are weakly referenced                                     | `new WeakSet()`          |
+
+---
+
+### 📝 Notes:
+- Primitive types are **immutable** and stored by **value**.
+- Non-Primitive types are **mutable** and stored by **reference**.
+- The `BigInt` type was introduced in ECMAScript 2020 (ES2020)
+---
 # 🎭 Type Coercion – Unexpected Changes in Relationships
 
 Type coercion is like those moments in relationships when you adjust your expectations or words to fit the situation better.  
