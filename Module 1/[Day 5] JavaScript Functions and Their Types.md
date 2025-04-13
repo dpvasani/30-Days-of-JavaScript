@@ -1,6 +1,6 @@
 
 
-## [Day 5] JavaScript Functions and Their Types 🎯
+# [Day 5] JavaScript Functions and Their Types 🎯
 
 ### Functions in JavaScript 💡
 Functions in JavaScript are like actions or tasks that we want to execute when needed. They allow us to bundle reusable code and execute it when required, similar to how you might say, "I will go for a walk," and then go for a walk when the time comes. 🏃‍♂️
